@@ -27,3 +27,5 @@ Durante este proyecto se practicaron conceptos como:
 * Uso de variables.
 * Operaciones aritméticas con JavaScript.
 * Manejo de eventos mediante botones.
+
+Link: https://fabianaromeromarcel.github.io/calculando-el-total/
